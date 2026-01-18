@@ -7,4 +7,4 @@ spec:
     - name: hello-container
       image: nginx
       ports:
-        - containerPort: 430
+        - containerPort: 36000
